@@ -12,3 +12,7 @@
   * Got the flag: ntio{eP1B35x4K3_aB3O0_q5_K00t} 
   * Converted the flag using ROT8: flag{wH1T35p4C3_sT3G0_i5_C00l}
   * [Link](https://wiki.bi0s.in/steganography/stegsnow/#decryption) for reference
+
+3. Security 101
+  * FLag - ntio{eP1B35x4K3_aB3O0_q5_K00t}
+  
